@@ -159,6 +159,24 @@ Para analizar un archivo:
 ./analizador < test/input.txt
 ```
 
+O utilizando `make`
+
+```
+make run
+```
+
+Para eliminar el ejecutable
+
+```
+make clean
+```
+
+Para eliminar los archivos generados en `/dist`
+
+```
+make distclean
+```
+
 ---
 
 # 🧩 3. Estructura de un archivo Flex
