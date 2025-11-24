@@ -1,0 +1,19 @@
+flex:
+    archivo "main.l"
+    -> lex.yy.c
+
+bison: 
+    archivo "sintacticoBison.y"
+        -> "sintacticoBison.tab.h"
+        ->
+        ->
+
+instrucciones para compilar
+
+chmod
+
+ENTERO PUNTO
+4 :
+chmod ;
+texto ;
+# ;
